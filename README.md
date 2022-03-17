@@ -36,6 +36,12 @@ Clonar el repositorio.
 gh repo clone FernandoCalmet/DOTNET-6-Boilerplate-API
 ```
 
+Migrar base de datos
+
+```bash
+dotnet ef database update
+```
+
 Ejecutar aplicación.
 
 ```bash
