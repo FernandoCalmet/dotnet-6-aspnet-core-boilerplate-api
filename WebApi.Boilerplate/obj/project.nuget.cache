@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ui0C5eg/H9aFIUPeP1HhEXCARfqsgKLI/XV68TticubZ18ylEbZyKb2kVYnh/Iss2EffGsgYw7nbiJtfLfrjuA==",
+  "dgSpecHash": "wbWK8z+dmj730WO4kfPt00xhAmQOCbpZFVui0xxLBvLobxcjKYd76V+dE1/RqDmr+Tm2eG8aYLhZf9Nl2dMDVA==",
   "success": true,
-  "projectFilePath": "D:\\Github\\FernandoCalmet\\DOTNET-6-Boilerplate-API\\WebApi.Boilerplate\\WebApi.Boilerplate.csproj",
+  "projectFilePath": "D:\\Github\\FernandoCalmet\\DOTNET-6-ASPNET-Core-Boilerplate-API\\WebApi.Boilerplate\\WebApi.Boilerplate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\I7\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\I7\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
