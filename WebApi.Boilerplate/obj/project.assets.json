@@ -2874,11 +2874,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\FernandoCalmet\\DOTNET-6-Boilerplate-API\\WebApi.Boilerplate\\WebApi.Boilerplate.csproj",
+      "projectUniqueName": "D:\\Github\\FernandoCalmet\\DOTNET-6-ASPNET-Core-Boilerplate-API\\WebApi.Boilerplate\\WebApi.Boilerplate.csproj",
       "projectName": "WebApi.Boilerplate",
-      "projectPath": "D:\\Github\\FernandoCalmet\\DOTNET-6-Boilerplate-API\\WebApi.Boilerplate\\WebApi.Boilerplate.csproj",
+      "projectPath": "D:\\Github\\FernandoCalmet\\DOTNET-6-ASPNET-Core-Boilerplate-API\\WebApi.Boilerplate\\WebApi.Boilerplate.csproj",
       "packagesPath": "C:\\Users\\I7\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\FernandoCalmet\\DOTNET-6-Boilerplate-API\\WebApi.Boilerplate\\obj\\",
+      "outputPath": "D:\\Github\\FernandoCalmet\\DOTNET-6-ASPNET-Core-Boilerplate-API\\WebApi.Boilerplate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
