@@ -33,7 +33,7 @@ Este proyecto es una muestra de un boilerplate con CRUD + Login con Verificació
 Clonar el repositorio.
 
 ```bash
-gh repo clone FernandoCalmet/DOTNET-6-Boilerplate-API
+gh repo clone FernandoCalmet/DOTNET-6-ASPNET-Core-Boilerplate-API
 ```
 
 Migrar base de datos
