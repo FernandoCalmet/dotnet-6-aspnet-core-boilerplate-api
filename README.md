@@ -48,6 +48,14 @@ Ejecutar aplicación.
 dotnet run
 ```
 
+### OTROS COMANDOS
+
+Iniciar migración
+
+```bash
+dotnet ef migrations add InitialCreate --context DataContext --output-dir Migrations/SqlServerMigrations
+```
+
 ## DESCRIPCIÓN
 
 La API boilerplate le permite registrar una cuenta de usuario, iniciar sesión y realizar diferentes acciones según su función. El rol `Admin` tiene acceso completo para administrar (agregar/editar/eliminar) cualquier cuenta en el sistema, el rol `User` tiene acceso para actualizar/eliminar su propia cuenta. A la primera cuenta registrada se le asigna automáticamente el rol `Admin` y a los registros posteriores se les asigna el rol `User`.
