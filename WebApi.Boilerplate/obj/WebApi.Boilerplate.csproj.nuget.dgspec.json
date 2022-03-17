@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\FernandoCalmet\\DOTNET-6-Boilerplate-API\\WebApi.Boilerplate\\WebApi.Boilerplate\\WebApi.Boilerplate.csproj": {}
+    "D:\\Github\\FernandoCalmet\\DOTNET-6-Boilerplate-API\\WebApi.Boilerplate\\WebApi.Boilerplate.csproj": {}
   },
   "projects": {
-    "D:\\Github\\FernandoCalmet\\DOTNET-6-Boilerplate-API\\WebApi.Boilerplate\\WebApi.Boilerplate\\WebApi.Boilerplate.csproj": {
+    "D:\\Github\\FernandoCalmet\\DOTNET-6-Boilerplate-API\\WebApi.Boilerplate\\WebApi.Boilerplate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\FernandoCalmet\\DOTNET-6-Boilerplate-API\\WebApi.Boilerplate\\WebApi.Boilerplate\\WebApi.Boilerplate.csproj",
+        "projectUniqueName": "D:\\Github\\FernandoCalmet\\DOTNET-6-Boilerplate-API\\WebApi.Boilerplate\\WebApi.Boilerplate.csproj",
         "projectName": "WebApi.Boilerplate",
-        "projectPath": "D:\\Github\\FernandoCalmet\\DOTNET-6-Boilerplate-API\\WebApi.Boilerplate\\WebApi.Boilerplate\\WebApi.Boilerplate.csproj",
+        "projectPath": "D:\\Github\\FernandoCalmet\\DOTNET-6-Boilerplate-API\\WebApi.Boilerplate\\WebApi.Boilerplate.csproj",
         "packagesPath": "C:\\Users\\I7\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\FernandoCalmet\\DOTNET-6-Boilerplate-API\\WebApi.Boilerplate\\WebApi.Boilerplate\\obj\\",
+        "outputPath": "D:\\Github\\FernandoCalmet\\DOTNET-6-Boilerplate-API\\WebApi.Boilerplate\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,6 +67,10 @@
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.3, )"
             },
